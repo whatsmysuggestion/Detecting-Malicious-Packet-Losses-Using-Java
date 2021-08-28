@@ -1,0 +1,40 @@
+
+To run the project Follow the below steps
+
+Running procedure:
+
+compile using(javac *.java)
+
+
+
+step 1:
+
+
+goto destinationrouter_one folder and compile then run
+
+   java DestinationRouter (or) double click on run.bat file
+
+goto destinationrouter_one folder then  inside of receiver folder and compile then run
+
+   java Receiver
+    
+
+
+step 2:
+
+
+goto sourcerouter folder and compile then run
+
+   java SourceRouter
+
+
+
+
+step 3:
+
+
+goto sender folder and compile then run
+
+   java SenderUI
+
+
